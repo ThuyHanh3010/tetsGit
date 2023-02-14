@@ -4,3 +4,9 @@
 [submodule "ChucNang/DangKy"]
 	path = ChucNang/DangKy
 	url = https://github.com/ThuyHanh3010/tetsGit.git
+[submodule "ManHinh/Manhinhdangnhap"]
+	path = ManHinh/Manhinhdangnhap
+	url = https://github.com/ThuyHanh3010/tetsGit.git
+[submodule "ManHinh/Manhinhdangnha"]
+	path = ManHinh/Manhinhdangnha
+	url = https://github.com/ThuyHanh3010/tetsGit.git
