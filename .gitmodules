@@ -1,3 +1,6 @@
 [submodule "tetsGit"]
 	path = tetsGit
 	url = https://github.com/ThuyHanh3010/tetsGit.git
+[submodule "ChucNang/DangKy"]
+	path = ChucNang/DangKy
+	url = https://github.com/ThuyHanh3010/tetsGit.git
